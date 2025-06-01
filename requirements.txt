@@ -1,0 +1,10 @@
+streamlit==1.28.2
+langchain==0.0.335
+langchain_ollama==0.0.1
+selenium==4.15.2
+beautifulsoup4==4.12.2
+lxml 
+html5lib
+python-dotenv==1.0.0
+webdriver-manager
+tqdm==4.66.1
